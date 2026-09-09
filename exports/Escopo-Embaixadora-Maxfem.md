@@ -1,6 +1,6 @@
 # Maxfem — Modelo de escopo de embaixadora
 
-Proposta revisada em 09/09/2026 para negociação com atriz e agente. Prazo inicial de **no mínimo 12 meses**, com intenção de renovação e construção de longo prazo. Nome da artista, cachê, licenças e eventual participação ainda a negociar. Este documento não constitui contrato, reserva de agenda ou investimento realizado.
+Proposta revisada em 09/09/2026 para negociação com atriz e agente. Prazo inicial de **no mínimo 12 meses**, com intenção de renovação e construção de longo prazo. **Ainda não temos o cachê da artista; queremos ouvir vocês e compor a proposta.** Nome da artista, cachê, licenças, condições de pagamento e eventual participação permanecem em aberto. A conversa também contempla parceria e desenvolvimento de novos produtos em conjunto. Este documento não constitui contrato, reserva de agenda ou investimento realizado.
 
 ## Objetivo e posicionamento
 
@@ -42,7 +42,9 @@ Ao fim das licenças, cessar veiculação no prazo contratado. Desativação té
 
 ## Opção de participação no Menovital e na linha 40+
 
-A Maxfem abre a conversa para uma relação em que a artista participe da construção de valor de longo prazo. Menovital é o ponto de partida; a expansão da linha 40+ pode envolver novas soluções, rotinas e canais, sujeitas à estratégia da marca e à viabilidade de cada produto.
+A Maxfem abre a conversa para uma relação em que a artista participe da construção de valor de longo prazo. Menovital é o ponto de partida. Existe interesse em **cocriar e lançar novos produtos em conjunto** na linha 40+, conforme afinidade da artista, demanda do público e viabilidade de desenvolvimento.
+
+O papel criativo da artista, categorias de interesse, responsabilidades, propriedade intelectual, aprovações, regularização aplicável, calendário e modelo econômico serão construídos em conjunto. Nenhum lançamento ou investimento em desenvolvimento está fechado. A Maxfem pode conduzir a operação e o desenvolvimento técnico, enquanto a artista contribui com visão de público, conceito e posicionamento, conforme o papel acordado.
 
 Dois caminhos podem ser avaliados em instrumento próprio:
 
@@ -55,22 +57,15 @@ Equity exige estrutura societária adequada; não se atribuem cotas diretamente 
 
 Cachê fixo, entregas anuais e licenças de imagem permanecem definidos em separado. Eventual substituição de parte da remuneração por participação só ocorrerá mediante avaliação e aceitação expressas de ambas as partes. A artista pode contribuir com visão de público e produto sem assumir a gestão operacional diária ou responsabilidade técnica.
 
-## Investimento de execução
+## Composição comercial em aberto
 
-| Frente | Premissa de planejamento |
-| --- | ---: |
-| Produção e pós-produção / 2 diárias anuais | R$ 120.000 |
-| Mídia paga / primeiros 6 meses | **R$ 300.000** |
-| OOH — opcional | R$ 60.000 |
-| PDV — opcional | R$ 60.000 |
-| Operação e contingência | R$ 30.000 |
-| Total do cenário completo, sem cachê e licenças | **R$ 570.000** |
+O cachê da artista ainda não foi informado. Queremos receber a referência da artista e do agente e compor uma proposta que faça sentido para ambas as partes. Valor, calendário de pagamento, entregas e licenças serão negociados juntos, com possibilidade de combinar remuneração fixa e participação econômica ou equity, conforme interesse mútuo e instrumento próprio.
 
-A diretriz de mídia equivale a uma média de R$ 50 mil por mês nos meses 1–6. Distribuição inicial ilustrativa: descoberta R$ 75 mil, consideração R$ 150 mil e conversão R$ 75 mil; as frentes podem operar em paralelo e a alocação será ajustada ao desempenho e à elegibilidade dos anúncios. Verba dos meses 7–12 a pactuar na revisão semestral.
+A diretriz já definida para a campanha é de **R$ 300 mil em mídia paga nos primeiros seis meses**, separada do cachê e dos direitos de imagem. Equivale a uma média de R$ 50 mil por mês nos meses 1–6. Distribuição inicial ilustrativa: descoberta R$ 75 mil, consideração R$ 150 mil e conversão R$ 75 mil; as frentes podem operar em paralelo e a alocação será ajustada ao desempenho e à elegibilidade dos anúncios. Verba dos meses 7–12 a pactuar na revisão semestral.
 
-Demais valores são estimativas de planejamento sem cotação de fornecedores. OOH e PDV são pilotos cujo alcance deverá caber na verba negociada. Taxas de redes, estoque, abastecimento, cachê, comissão da agência, licenças, tributos e eventual investimento societário exigem tratamento próprio e podem alterar o total. A produção prevê duas diárias para renovar o banco de criativos a cada semestre.
+Produção, OOH, PDV e operação serão dimensionados a partir do escopo acordado e das cotações. OOH e PDV são pilotos opcionais. Taxas de redes, estoque, abastecimento, comissão da agência, licenças, tributos e eventual investimento em produtos ou participação societária terão tratamento próprio. **Não há orçamento total fechado ou condições de pagamento pré-fixadas nesta proposta.**
 
-Pagamento fixo sugerido à artista: **40% na assinatura, 30% antes da primeira diária e 30% antes da segunda diária**. Independente de vendas ou ROI. Bônus comercial, se houver, é adicional e deve ter regras de atribuição e conciliação próprias; não confundir com equity ou comissão de afiliados.
+A ideia de parceria e de lançar novos produtos em conjunto é uma opção de construção, sem percentual ou compromisso econômico pré-definido. Eventual bônus comercial terá regras de atribuição e conciliação específicas; participação econômica, equity e comissão de afiliados são modalidades distintas.
 
 ## Calendário proposto
 
@@ -79,7 +74,7 @@ Pagamento fixo sugerido à artista: **40% na assinatura, 30% antes da primeira d
 - Meses 4–6: terceiro Reel, Stories, otimização e balanço do primeiro ciclo de R$ 300 mil de mídia. Fechamento do piloto de PDV.
 - Meses 7–9: segunda diária, quarto e quinto Reels, segunda live e Stories. Nova verba de mídia somente se pactuada.
 - Meses 10–12: sexto Reel, Stories, continuidade de marca e negociação de renovação.
-- Além dos 12 meses: avaliar continuidade da parceria e expansão da linha 40+. Eventual participação tem contrato e calendário próprios.
+- Além dos 12 meses: avaliar continuidade da parceria e expansão da linha 40+, inclusive produtos desenvolvidos em conjunto. Eventual participação e novos lançamentos têm contrato e calendário próprios.
 
 O cronograma começa na assinatura e na estreia aprovadas; não presume reserva de agenda. Discussão de participação pode ocorrer em paralelo à operação anual.
 
